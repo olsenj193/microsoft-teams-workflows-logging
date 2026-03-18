@@ -1,0 +1,32 @@
+{
+    "name": "jolsen/microsoft-teams-workflows-logging",
+    "description": "Package to send webhook alerts to teams channels using Microsoft Workflows",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olsenj193",
+            "email": "olsenjason95@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jolsen\\MicrosoftTeamsWorkflowsLogging\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Jolsen\\MicrosoftTeamsWorkflowsLogging\\Test\\": "tests"
+        }
+    },
+
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "extras": {
+        "laravel": {
+            "providers": [
+                "Jolsen\\microsoft-teams-workflows-logging\\TeamsWorkflowLoggingServiceProvider"
+            ]
+        }
+    }
+}
