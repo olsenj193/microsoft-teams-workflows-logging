@@ -2,7 +2,12 @@
     "name": "jolsen/microsoft-teams-workflows-logging",
     "description": "Package to send webhook alerts to teams channels using Microsoft Workflows",
     "license": "MIT",
-    "homepage": "https://github.com/olsenj193/microsoft-teams-workflows-logging",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/olsenj193/microsoft-teams-workflows-logging"
+        }
+    ],
     "authors": [
         {
             "name": "olsenj193",
