@@ -5,7 +5,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/olsenj193/microsoft-teams-workflows-logging"
+            "url": "https://github.com/olsenj193/microsoft-teams-workflows-logging.git"
         }
     ],
     "authors": [
