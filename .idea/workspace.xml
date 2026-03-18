@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8582255b-5fa3-41af-947a-cf8117325cf8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TeamsLogChannel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamsMessage.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamsWorkflowLogHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamsWorkflowLogger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamsWorkflowLoggingServiceProvider.php" afterDir="false" />
-    </list>
+    <list default="true" id="8582255b-5fa3-41af-947a-cf8117325cf8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1773857610206</updated>
-      <workItem from="1773857614242" duration="2686000" />
+      <workItem from="1773857614242" duration="3634000" />
     </task>
     <servers />
   </component>
