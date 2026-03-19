@@ -1,5 +1,5 @@
 {
-    "name": "jolsen/microsoft-teams-workflows-logging",
+    "name": "olsenj193/microsoft-teams-workflows-logging",
     "description": "Package to send webhook alerts to teams channels using Microsoft Workflows",
     "license": "MIT",
     "repositories": [
